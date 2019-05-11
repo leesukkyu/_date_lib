@@ -13,4 +13,4 @@ Ex) Use intuitive method chaining to get the timestamp you want.
 
 Ex) Do you want to get the last time stamp of today?
 
-``` _D.end().done().getTime()
+``` _D.end().done().getTime() ```
