@@ -14,3 +14,7 @@ Ex) Use intuitive method chaining to get the timestamp you want.
 Ex) Do you want to get the last time stamp of today?
 
 ``` _D.end().done().getTime() ```
+
+Ex) Do you want to get the first timestamp of last month?
+
+``` new _Date().lastMonth().start().done().getTime() ```
