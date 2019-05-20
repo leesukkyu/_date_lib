@@ -1,5 +1,5 @@
 # _date_lib
-a date library for real web programming.
+a date library for web programming.
 
 ### Step1. Create _Date object
 
