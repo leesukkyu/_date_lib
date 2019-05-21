@@ -1,3 +1,4 @@
+//Copyright (c) <2018> <ansua86>
 class _Date {
     constructor(str) {
         if (!_Date.instance) {
